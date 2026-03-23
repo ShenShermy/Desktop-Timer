@@ -37,6 +37,12 @@ python main.py
 生成文件位于 `dist\休息提醒助手.exe`，
 双击即可使用，无需安装 Python。
 
+### 方式三：压缩包
+
+解压缩文件，
+直接运行 `dist\休息提醒助手.exe`。
+
+
 ---
 
 ## 使用说明
@@ -69,7 +75,9 @@ break_reminder/
 
 ## 关于安卓版本（正在做，懒得做，真的做的出来吗，单纯懒得做）
 
-如需安卓版，推荐使用 **Kivy + Buildozer** 方案：
+安卓版方案，推荐使用 **Kivy + Buildozer** 
+
+方案：
 
 1. 安装 Kivy：`pip install kivy`
 2. 安装 Buildozer（需要 Linux / WSL 环境）
